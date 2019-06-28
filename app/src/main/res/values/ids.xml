@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="btnupdate" type="id" />
+    <item name="student_search" type="id" />
+    <item name="student_name" type="id" />
+    <item name="student_id" type="id" />
+    <item name="student_email" type="id" />
+    <item name="btnsave" type="id" />
+    <item name="btnsearch" type="id" />
+    <item name="btndel" type="id" />
+</resources>
